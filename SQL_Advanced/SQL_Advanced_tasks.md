@@ -75,10 +75,10 @@ limit 10;
 - среднее число очков пользователя за пост, округлённое до целого числа.
 Не учитывайте посты без заголовка, а также те, что набрали ноль очков.
 ```
-SELECT title
-    , user_id
-    , score
-    , ROUND (AVG(score) OVER (partition by user_id),0)
+SELECT title,
+user_id,
+score,
+ROUND (AVG(score) OVER (partition by user_id),0)
 FROM stackoverflow.posts
 WHERE score <> 0 AND title IS NOT NULL
 ```
