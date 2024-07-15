@@ -1,11 +1,11 @@
 # Data analyst
-## Основные инструменты и навыки, полученные при обучении:
-- Языки: Python, SQL
-- Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
-- Визуализация: Matplotlib, Plotly, Seaborn
-- Построение дашбордов: Tableau
-- Метрики юнит-экономики, когортный анализ
-- А/В-тестирование
-- Работа с гипотезами
-- Машинное обучение: библиотеки Scikit-learn, XGBoost
-## Проекты:
+## Basic tools and skills:
+- Languages: Python, SQL
+- Data analysis: libraries Pandas, NumPy, SciPy, Statsmodels
+- Visualization: Matplotlib, Plotly, Seaborn
+- Building dashboards: Tableau
+- Unit economics metrics, cohort analysis
+- A/B testing
+- Working with hypotheses
+- Machine learning: Scikit-learn, XGBoost libraries
+
