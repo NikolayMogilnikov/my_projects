@@ -10,7 +10,7 @@
 - Machine learning: Scikit-learn, XGBoost libraries
 
 ## Проекты:
-| №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
+| №| Title and link | What is the project about?                                                    | Skills and Tools           |  
 |-----------|-------------------|------------------------------------------------------------------|-----------------------------------|
 |1              |[Music of big cities](big_cities_music/)|Comparing Yandex.Music user data by city and day of the week|`Python` `Pandas`|
 |2              |[Borrower reliability research](analysis_of_bank_data/)|We look into whether the client’s marital status and number of children influence the fact of repaying the loan on time. We analyze data about bank clients and determine the share of creditworthy|`data preprocessing` `Python` `Pandas`|
